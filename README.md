@@ -1,2 +1,2 @@
-# ArchivoEscolarEPET30
-Repositorio recursivo con documentos e imágenes relacionados a la EPET N°30. Para uso personal y compartido.
+# Archivado escolar secundario EPET N°30 San José Obrero
+Cada materia y año está separada por carpetas y se irán agregando más archivos conforme pase el tiempo.
